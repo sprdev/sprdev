@@ -18,4 +18,4 @@
 ## 💎 Поддержи меня:
 <p><a href="https://www.donationalerts.com/r/onlyspringg"> <img align="left" src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/ad/DA_Logo_Color.svg/1200px-DA_Logo_Color.svg.png" height="45" width="205" alt="donationalerts" /></a></p><br><br><br>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=sprdev&langs_count=6&layout=compact&theme=github_dark
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprdev&langs_count=6&layout=compact&theme=github_dark">
