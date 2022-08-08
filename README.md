@@ -10,7 +10,7 @@
 
 ## 🔗 Интеграции:
 <p align="left">
-<a href="https://vk.com/SayrixFX"><img src="https://i.imgur.com/zVwbWwf.png" alt="vk" width="37" height="37" /></a> 
+<a href="https://vk.com/onlyspringg"><img src="https://i.imgur.com/zVwbWwf.png" alt="vk" width="37" height="37" /></a> 
 <a href="https://discord.gg/cjwnmzqxws"><img src="https://i.imgur.com/nsVOefF.png" alt="jNKdusJ" width="37" height="37" /></a>
 <a href="https://www.twitch.tv/onlyspringg"><img src="https://i.imgur.com/0pAkilW.png" alt="s4yrix" width="37" height="37" /></a>
 </p>
