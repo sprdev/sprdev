@@ -1,4 +1,4 @@
-## Привет 👋, Я Даня
+## Hola 👋, I am Даня
 
 
 [![discord](https://discordapp.com/api/guilds/797936725313847311/widget.png)](https://discord.gg/cjwnmzqxws) [![github-views](https://komarev.com/ghpvc/?username=sprdev&color=brightgreen)](https://github.com/sprdev)
